@@ -65,16 +65,13 @@ Expand the **Central Production Facility (CPF)** network to the West Coast *befo
 *Below are selected slides from the strategic presentation.*
 
 ### Customer Analysis
-![Customer Analysis](slide_customer_analysis.jpg)
-*(Note: Upload your 'Customer Analysis' slide image to the repo and rename it to match this link)*
+![Customer Analysis](slide_customer_analysis.JPG.jpg)
 
 ### Competitive Analysis
-![Competitive Analysis](slide_competitive_analysis.jpg)
-*(Note: Upload your 'Competitive Analysis' slide image to the repo and rename it to match this link)*
+![Competitive Analysis](slide_competitive_analysis.JPG.jpg)
 
 ### Company Capabilities
-![Company Capabilities](slide_company_capabilities.jpg)
-*(Note: Upload your 'Company Capabilities' slide image to the repo and rename it to match this link)*
+![Company Capabilities](slide_company_capabilities.JPG.jpg)
 
 ---
 
