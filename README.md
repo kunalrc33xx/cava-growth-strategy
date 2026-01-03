@@ -1,10 +1,10 @@
-# CAVA Growth Strategy: Mediterranean Fast-Casual Expansion 🥗
+# CAVA Growth Strategy: Mediterranean Fast-Casual Expansion
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-Excel_|_PowerPoint_|_Market_Research-blue)
 ![Focus](https://img.shields.io/badge/Focus-Corporate_Strategy_|_Data_Analysis-orange)
 
-## 📄 Executive Summary
+## Executive Summary
 **The Challenge:** CAVA, a fast-growing Mediterranean fast-casual chain, faces the "scale paradox": how to expand rapidly beyond its East Coast stronghold without sacrificing the operational quality and brand authenticity that made it successful.
 
 **The Strategy:** We designed a **"Sustainable Moat"** strategy that leverages CAVA’s vertically integrated supply chain to maintain a pricing advantage while aggressively expanding into high-density markets like Texas and Florida.
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Market Analysis & Opportunity
+## Market Analysis & Opportunity
 *Data Source: Management Consulted Case Prompt & Industry Reports (2025)*
 
 The U.S. fast-casual sector is a **$45.6B market** growing at **6.4% CAGR**. Within this, CAVA is an outlier, delivering **59.8% YoY revenue growth** (2023) and consistently outperforming industry same-store sales benchmarks (13.4% vs. 3-5%).
@@ -31,7 +31,7 @@ The U.S. fast-casual sector is a **$45.6B market** growing at **6.4% CAGR**. Wit
 
 ---
 
-## ⚔️ Competitive Landscape: The "Sustainable Moat"
+## Competitive Landscape: The "Sustainable Moat"
 
 We analyzed CAVA against key competitors (Chipotle, Sweetgreen, Panera). While competitors rely on scale, CAVA wins on **Value & Customization**.
 
@@ -49,7 +49,7 @@ Unlike competitors who rely heavily on co-packers, CAVA owns its production of p
 
 ---
 
-## 🚀 Strategic Recommendation
+## Strategic Recommendation
 
 ### Phase 1: Density Strategy (Years 1-2)
 Focus expansion on **Texas and South Florida**.
@@ -61,7 +61,7 @@ Expand the **Central Production Facility (CPF)** network to the West Coast *befo
 
 ---
 
-## 📂 Project Slides
+## Project Slides
 *Below are selected slides from the strategic presentation.*
 
 ### Customer Analysis
